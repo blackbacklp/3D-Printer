@@ -1,4 +1,5 @@
-//Aurduino IDE Based 3D Printer firmware by Dennis Gunia
+//Aurduino IDE Based 3D Printer firmware by Blackbacklp
+
 #define sens_z 3 //sensor z-axis
 #define sens_y 4 //sensor y-axis
 #define sens_xA 5 //sensor x-axis 1
